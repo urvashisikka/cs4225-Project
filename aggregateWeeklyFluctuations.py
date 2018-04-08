@@ -1,6 +1,6 @@
 
 """
-The script below extract the stock prices for the past 6 months using the Quandl API.
+The script below extract the stock prices using the Quandl API.
 The data retrieved and the computed fluctuations are stored automatically into separte text file"""
 
 import pandas as pd
